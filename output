@@ -1,0 +1,74 @@
+THE output of this code is as follows.
+input=5
+o/p:
+-->5
+HALF PARAMID WITH NO'S
+1
+12
+123
+1234
+12345
+INVERTED HALF PARAMID WITH NUMBERS
+12345
+1234
+123
+12
+1
+FLOYD'S TRIANGLE
+1
+23
+456
+78910
+1112131415
+0-1 TRIANGLE
+1
+01
+010
+1010
+10101
+BUTTERFIY PATTERN
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+solid Rhombus
+   ******
+  ******
+ ******
+******
+*****
+number pyramid
+    1 
+   2 2
+  3 3 3
+ 4 4 4 4
+5 5 5 5 5
+number pyramid
+    1
+   2 2
+  3 3 3
+ 4 4 4 4
+5 5 5 5 5
+PALINDROMIC PATTERN
+    1
+   212
+  32123
+ 4321234
+543212345
+DIAMOND PATTERN
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
